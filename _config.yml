@@ -85,10 +85,10 @@ author:
   bio              : "Geology Ph.D. student at the University of Florida."
   location         : "Gainesville, FL"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com.br/citations?user=rdVDSNYAAAAJ&hl"
+  email            : "danilojodonascim@ufl.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Danilo-Cruz"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1402-2900"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
